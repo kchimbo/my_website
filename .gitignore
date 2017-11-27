@@ -1,7 +1,7 @@
 # ignore the folders inside project but not the files
 projects/*/
-docs/*
-research/*
+docs/
+research/
 
 # Created by https://www.gitignore.io/api/vim,linux
 
