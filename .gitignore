@@ -2,6 +2,7 @@
 projects/*/
 docs/
 research/
+pdfs/
 
 # Created by https://www.gitignore.io/api/vim,linux
 
