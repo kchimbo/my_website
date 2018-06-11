@@ -8,7 +8,7 @@ a.content {
 	padding-right: 10px;
 	color: #ffffff; /* silver: #a9a9a9 */
 	text-decoration: none;
-	background: #4ec9f4;
+	background: #ff8500;
 }
 
 br {
@@ -20,4 +20,10 @@ br {
 	margin-left: 2%;
 	font-family: 'Raleway', sans-serif;
 	font-size: 50pt;
+}
+
+span {
+	display: inline-block;
+	padding-top: 8px;
+	padding-bottom: 8px;
 }
